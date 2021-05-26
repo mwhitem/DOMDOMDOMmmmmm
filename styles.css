@@ -1,0 +1,26 @@
+button {
+    margin:  1em;
+    background-color: cornflowerblue;
+    position: absolute;
+}
+
+
+.blackSquare {
+    
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    margin: 4em 1em 0em 1em;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+
+.blackSquare:hover {
+    cursor: pointer;
+    background-color: chartreuse;
+    text-align: center; 
+    line-height: 50px;
+}
